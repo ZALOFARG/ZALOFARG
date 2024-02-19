@@ -24,7 +24,7 @@ graph LR;
 ```
 AND I LOVE IT!!!
 
-![programacion1](https://github.com/ZALOFARG/ZALOFARG/assets/115996944/317f661f-2457-4031-afa5-d5144f2ec493)
+<img src="https://github.com/ZALOFARG/ZALOFARG/assets/115996944/317f661f-2457-4031-afa5-d5144f2ec493.gif" width="500" height="300">
 
 
 <!--
