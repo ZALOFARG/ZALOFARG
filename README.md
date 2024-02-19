@@ -2,7 +2,18 @@
 
 🌱 I’m currently learning Full-Stack Development
 
+Below are my ranked languages:
+
+| Rank | Languages |
+|-----:|-----------|
+|     1|   Python  |
+|     2|     C     |
+|     3| JavaScript|
+
+
 ⚡ Fun fact: When I was a kid I jumped off the swing and fell horibly and fractured my elbow
+
+Until now, my journey depicts something like this...
 
 ``` mermaid
 graph LR;
