@@ -6,8 +6,10 @@
 
 ``` mermaid
 graph LR;
-  A-->B;
-  A-->C;
+  A(be born)-->B(grow);
+  B-->C(acknowledge TI world);
+  C-->D(Commitment to grow);
+  D-->E(GROWTH!!!)
 ```
 
 <!--
