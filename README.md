@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Full-Stack Development
+
+⚡ Fun fact: When I was a kid I jumped off the swing and fell horibly and fractured my elbow
+
+``` mermaid
+graph LR;
+  A-->B;
+  A-->C;
+```
+
 <!--
 **ZALOFARG/ZALOFARG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
