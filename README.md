@@ -22,6 +22,10 @@ graph LR;
   C-->D(Commitment to grow);
   D-->E(GROWTH!!!)
 ```
+AND I LOVE IT!!!
+
+![programacion1](https://github.com/ZALOFARG/ZALOFARG/assets/115996944/317f661f-2457-4031-afa5-d5144f2ec493)
+
 
 <!--
 **ZALOFARG/ZALOFARG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
