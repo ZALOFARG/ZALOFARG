@@ -27,6 +27,9 @@ AND I LOVE IT!!!
 <img src="https://github.com/ZALOFARG/ZALOFARG/assets/115996944/317f661f-2457-4031-afa5-d5144f2ec493.gif" width="500" height="300">
 
 
+> "We think we are creating the system for our own purpose. We believe we are making it in our own image... But the computer is not really like us. It is a projection of a very slim part of ourselves: that portion devoteed to logic, order, rule and clarity."
+> - Ellen Ullman, _Close to the Machine: Technophilia and its Discontents_
+
 <!--
 **ZALOFARG/ZALOFARG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
