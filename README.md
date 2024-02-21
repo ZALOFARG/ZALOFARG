@@ -7,8 +7,8 @@ Below are my ranked languages:
 | Rank | Languages |
 |-----:|-----------|
 |     1|   Python  |
-|     2|     C     |
-|     3| JavaScript|
+|     2| JavaScript|
+|     3|     C     |
 
 
 ⚡ Fun fact: When I was a kid I jumped off the swing and fell horibly and fractured my elbow
@@ -19,7 +19,7 @@ Until now, my journey depicts something like this...
 graph LR;
   A(be born)-->B(grow);
   B-->C(acknowledge TI world);
-  C-->D(Commitment to grow);
+  C-->D(commitment to grow);
   D-->E(GROWTH!!!)
 ```
 AND I LOVE IT!!!
