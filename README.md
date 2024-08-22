@@ -6,8 +6,8 @@ Below are my ranked languages:
 
 | Rank | Languages |
 |-----:|-----------|
-|     1|   Python  |
-|     2| JavaScript|
+|     1| Javascript|
+|     2|   Python  |
 |     3|     C     |
 
 
@@ -32,7 +32,7 @@ AND I LOVE IT!!!
 
 ### Connect with me!
 
-<a href="https://www.linkedin.com/in/andre/farfan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height=40/></a>
+<a href="https://www.linkedin.com/in/andrefarfan/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height=40/></a>
 
 ### Tech Stack
 
