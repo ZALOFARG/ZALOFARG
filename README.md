@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 My name is André and am currently learning Full-Stack Development. I love learning. I'm waiting for what the future brings us.
+🌱 My name is André and I'm a Full-Stack Developer Jr. I'm eager to start working in the IT world!. I'm waiting for what the future brings us.
 
 Below are my ranked languages:
 
